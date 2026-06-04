@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import dynamic from "next/dynamic";
 import { SignalsFeed } from "@/modules/signals/components/SignalsFeed";
 import { WatchlistManager } from "@/modules/watchlist/components/WatchlistManager";
